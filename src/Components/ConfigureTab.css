@@ -1,0 +1,38 @@
+.center-align {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.filePickerLabel {
+    padding-right: 10px
+}
+
+.configureButtonBlck {
+    padding-right: 30px;
+}
+
+.resetButtonBlck {
+    padding-left: 35px
+}
+
+.button-row {
+    padding-top: 20px;
+}
+
+button {
+    width: 130px;
+}
+
+.filePickerLabel {
+    font-size: 18px;
+}
+
+.not-visible{
+    display: none !important;
+}
+
+.lml-visible{
+    display: flex !important;
+}
+

@@ -1,0 +1,62 @@
+.center-align {
+    align-items: center;
+    justify-content: center;
+}
+
+.predictButtonBlck {
+    padding-right: 30px;
+}
+
+.resetButtonBlck {
+    padding-left: 35px
+}
+
+.button-row {
+    padding-top: 20px;
+}
+
+button {
+    width: 130px;
+}
+
+.filePickerLabel {
+    /* padding-right: 40px !important; */
+    padding-left: 181px;
+    font-size: 24px !important;
+}
+
+#infileid {
+    padding-left: 20px !important;
+}
+
+.imageBlock{
+    width: 100%;
+}
+.img-visible{
+    display: block !important;
+    height: 16em;
+    width: 16em;;
+}
+
+.not-visible{
+    display: none !important;
+}
+
+.l-top-space{
+    padding-top: 32px;
+}
+  
+.predicted-label{
+    padding-left: 15px;
+    font-size: 36px;
+}
+
+.predicted-text{
+    padding-left: 10px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.lvl-visible{
+    display: inline-block !important;
+}
