@@ -4,4 +4,4 @@
 npm i
 
 # To Run
-npm run dev
+npm start
