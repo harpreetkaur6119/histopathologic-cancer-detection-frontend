@@ -8,6 +8,7 @@ TensorFlow library is used for the deep learning. In this project, we will be us
 ![Screenshot 2023-08-13 162324](https://github.com/harpreetkaur6119/histopathologic-cancer-detection-frontend/assets/64327716/946fcdb7-49b8-43b0-8c5b-1ec011adf8ef)
 
 
+
 # Install the necessary packages
 npm i
 
